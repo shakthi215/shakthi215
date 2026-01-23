@@ -2,7 +2,7 @@
 **Full-Stack & Mobile Developer | AI & DSA Enthusiast | Problem Solver**  
 
 📫 Contact Me: shakthis045@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/shakthi20) | [Portfolio](https://shakthi215.github.io/portfolio) | [GitHub](https://github.com/shakthi215) | [LeetCode](https://leetcode.com/u/szcejb1CSH/)  
+🔗 [LinkedIn](https://linkedin.com/in/shakthi20) | [Portfolio](https://shakthi-s.vercel.app) | [GitHub](https://github.com/shakthi215) | [LeetCode](https://leetcode.com/u/szcejb1CSH/)  
 
 ---
 
