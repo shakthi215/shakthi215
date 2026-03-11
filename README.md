@@ -87,7 +87,7 @@
 - Database & SQL – Infosys Springboard  
 - Data Structures in C – [Great Learning](https://www.mygreatlearning.com/certificate/AXTBRELT?referrer_code=GL-CFDDXU4RVY)  
 - Responsible and Safe AI Systems – NPTEL  
-- Cyber Security & Privacy – NPTEL  
+- Cyber Security & Privacy – NPTEL(62%)
 
 ---
 
